@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Daniel-mayne
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Olá, Sou o Daniel Mayne Bento
+Quero ser Programador Back-End
+Estou estudando PHP e JavaScript
+Quero colaborar com tudo que for relacionado a tecnologia
+Para contato tenho o Telegram https://t.me/Rullez
+Telefone (17) 98179-7547
 
 <!---
 Daniel-mayne/Daniel-mayne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
