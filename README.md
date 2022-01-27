@@ -1,6 +1,6 @@
 Olá, Sou o Daniel Mayne Bento
 Quero ser Programador Back-End
-Estou estudando PHP e JavaScript
+Estou estudando PHP e Node.js
 Quero colaborar com tudo que for relacionado a tecnologia
 Para contato tenho o Telegram https://t.me/Rullez
 Telefone (17) 98179-7547
